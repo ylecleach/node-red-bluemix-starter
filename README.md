@@ -29,8 +29,7 @@ This Boilerplate shows basics flows sample of the Watson nodes
 - Language Identification
 - Language Translation
 - Natural Language Classifier
-- Concept Insights (deprecated)
-- Relationship Extraction (deprecated)
+- Personality Insights (Big 5)
 - Retrieve and Rank
 - Speech to Text
 - Text to Speech
